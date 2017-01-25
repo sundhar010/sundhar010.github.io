@@ -30,24 +30,7 @@
 	transform: translate3d(-50%,-50%,0);
 }
 
-.main-p {
-	position: absolute;
-	margin: 0;
-	padding: 0;
-	color: #f9f1e9;
-	text-align: center;
-	top: 35%;
-	left: 50%;
-	-webkit-transform: translate3d(-50%,-50%,0);
-	transform: translate3d(-50%,-50%,0);
-}
 
-.demo-2 .main-p {
-	font-weight: normal;
-	font-size: 2em;
-	padding-left: 10px;
-	text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
-}
 
 .demo-2 .main-title {
 	font-family: 'Clicker Script', cursive;
